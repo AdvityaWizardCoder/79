@@ -1,0 +1,16 @@
+input {
+    margin: 10px;
+    background-color:royalblue;
+}
+#submit_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: chartreuse;
+    border-radius: 72;
+}
+#sorn{
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: aqua;
+}
